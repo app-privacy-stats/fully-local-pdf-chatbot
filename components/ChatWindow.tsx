@@ -56,7 +56,7 @@ export function ChatWindow(props: {
           // },
         };
         const ollamaConfig = {
-          baseUrl: "http://localhost:11435",
+          baseUrl: "http://100.121.80.53:11435",
           temperature: 0.3,
           model: "mistral",
         };
